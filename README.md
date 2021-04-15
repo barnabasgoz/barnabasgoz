@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barnabasgoz
 - 👀 I’m interested in web application development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning the usage of React.
 - 📫 Say hi at hello@goozbarnabas.gq
 
 <!---
