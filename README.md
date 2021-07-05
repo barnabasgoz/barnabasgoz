@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @barnabasgoz
-- 👀 I’m interested in web application development.
-- 🌱 I’m currently learning the usage of React.
-- 📫 Say hi at hello@goozbarnabas.gq
+#About me:
+Hi! My name is Barnabás Gőz, and I'm currently studying web application development. My first big project just began **beta** testing. It's called Justsalt, and if you could check it out i would be grateful. 
+###Justsalt: https://justsalt.netlify.app
 
 <!---
 barnabasgoz/barnabasgoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
