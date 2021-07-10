@@ -13,4 +13,4 @@ If you would like to see any of my projects source please contact me!
 # Contact:
 **This data can be changed after time so if you want to contact me, watch out for changes!**
 - **E-mail address**: barnagoz.public@gmail.com _This address forwards the e-mails you send to my real address so if its not working, well_ **Sorry**
-- **Personal portfolio**: https://barnabasgoz@netlify.app
+- **Personal portfolio**: https://barnabasgoz.netlify.app
