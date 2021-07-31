@@ -14,7 +14,7 @@
 ---
 
 # My projects:
-I had some **old** and **practice** projects which I'm not going to publish. But if you would like to check them out please contact me!
+- **Example Weather App**: This was one of my first apps, but now it's a template for anybody who wants to build a weather app. [![checkitout-button](https://img.shields.io/badge/Try-It-9cf)](https://github.com/barnabasgoz/example-weather-app)
 - **Justsalt**: Its a Hungarian recipe sharing site. [![checkitout-button](https://img.shields.io/badge/Try-It-9cf)](https://justsalt.netlify.app)
 - **German Cars Shop**: This site was made for my friend Peter, because he makes T-Shirt designs on Gearbubble and i wanted to surprise him. [![checkitout-button](https://img.shields.io/badge/Try-It-9cf)](https://german-cars-shop.gq)
 - **Personal portfolio site**: This site is under development, but it will be my personal portfolio. [![checkitout-button](https://img.shields.io/badge/Try-It-9cf)](https://barnabasgoz.netlify.app)
